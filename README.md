@@ -3,7 +3,7 @@
 I’m Javier Rivera Vielmas, a student at CodeCrypto Academy. My focus is on building real-world applications with **decentralized solutions** that deliver tangible value.
 
 ##### CodeCrypto Academy Progress
-- [https://github.com/codecrypto-academy/github-username](https://github.com/javiervielmas)
+- [https://github.com/codecrypto-academy/javiervielmas](https://github.com/javiervielmas)
   
 
 ## Projects
